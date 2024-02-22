@@ -1,16 +1,21 @@
 # extension-template
 
-## セットアップ
-### 1. 依存ライブラリのインストール
+## Setup
+
+### 1. Install dependencies
+
 ```bash
 pnpm install
 ```
 
-### 2. 開発ビルド
+### 2. Development build
+
 ```bash
 pnpm dev
 ```
-### 3. 本番ビルド
+
+### 3. Production build
+
 ```bash
 pnpm build
 ```
